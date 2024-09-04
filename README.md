@@ -9,55 +9,55 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a love f
 ## 🛠️ Tech Stack
 
 - **Languages**: JavaScript (ES6+), HTML5, CSS3
-- **Frameworks/Libraries**: React, Redux, React Router
-- **Tools**: VS Code, Git, Babel 
+- **Frameworks/Libraries**: React, Redux, React Router, Bootstrap
+- **Tools**: VS Code, Github, Babel 
 
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Project 1 Name](https://github.com/yourusername/project1)
-**Description**: Brief description of what this project does and what technologies were used. Mention any unique challenges or features.
+### [Kishore's Boutique](https://github.com/Kishorenag/KishoreBoutique)
+**Description**: The project is an e-commerce website designed to provide a seamless shopping experience for users. It allows users to browse products, add items to their cart, proceed to checkout, and make payments. The site is built using modern web technologies, ensuring responsiveness, scalability, and a user-friendly interface.
 
 **Tech Stack**: 
+- Frontend: React.js for building a dynamic and responsive user interface.
+- Backend: A simulated backend using the Fake Store API for product data retrieval.
+- State Management: React hooks and local storage for managing application state and cart persistence.
+- Styling: React-Bootstrap for responsive and consistent UI components.
+- Routing: React Router for client-side routing and navigation.
 
-![Project 1 Screenshot](https://via.placeholder.com/600x400) <!-- Replace with actual screenshot -->
 
 ---
 
-### [Project 2 Name](https://github.com/yourusername/project2)
-**Description**: Another brief description highlighting the purpose of this project. Mention the technologies and any interesting problems you solved.
+### [Ed-tech Website](https://github.com/yourusername/Static-Website-Recreation)
+**Description**: This project hosts the code for recreating a static website, capturing the design and layout of an existing site. The project focuses on delivering a visually appealing and functional static site without the need for server-side processing.
 
-**Tech Stack**: Next.js, GraphQL, Styled Components
-
-![Project 2 Screenshot](https://via.placeholder.com/600x400) <!-- Replace with actual screenshot -->
+**Tech Stack**: HTML, CSS
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced React patterns and hooks
-- TypeScript for React
-- Progressive Web Apps (PWAs)
-- Web Accessibility (a11y)
+- Advanced Redux library
+- Node JS, Express JS
+- MangoDB
+- MaterialUI
 
 ---
 
 ## 📫 How to Reach Me
 
 - **LinkedIn**: www.linkedin.com/in/kishorenag
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 - **Email**: kishorenagarajan@outlook.com
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishorenag&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorenag&layout=compact&theme=radical&langs_count=6&hide=php)
 
 ---
 
