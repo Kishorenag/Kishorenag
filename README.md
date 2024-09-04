@@ -41,8 +41,8 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a love f
 
 - Advanced Redux library
 - Node JS, Express JS
-- MangoDB
-- MaterialUI
+- MongoDB
+- Material UI
 
 ---
 
